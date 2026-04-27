@@ -1,0 +1,6 @@
+@inproceedings{long2023himloco,
+  author    = {Junfeng Long, Zirui Wang, Quanyi Li, Jiawei Gao, Liu Cao, Jiangmiao Pang},
+  title     = {Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response},
+  booktitle   = {International Conference on Learning Representations (ICLR)},
+  year      = {2024},
+}

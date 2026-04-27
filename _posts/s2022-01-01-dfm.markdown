@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Monocular 3D Object Detection with Depth from Motion"
+date:   2022-01-01 00:00:03 +00:00
+image: pubs/2022.DfM/teaser.png
+categories: research
+sub_fields: "3D Vision and Embodied Perception"
+# author: ""
+authors: "<u>Tai Wang</u>, <strong>Jiangmiao Pang</strong><sup>&dagger;</sup>, Dahua Lin"
+venue: "European Conference on Computer Vision (ECCV)"
+# page:
+arxiv: https://arxiv.org/abs/2207.12988
+# paper: 
+code: https://github.com/Tai-Wang/Depth-from-Motion
+# poster: pubs/2021.PGD/poster.jpeg
+# video: 
+# slide:
+zhihu: https://zhuanlan.zhihu.com/p/552559901
+bibtex: pubs/2022.DfM/bibtex.txt
+highlight: Oral Presentation
+---

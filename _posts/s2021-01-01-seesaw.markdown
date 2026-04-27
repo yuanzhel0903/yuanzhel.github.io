@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Seesaw Loss for Long-Tailed Instance Segmentation"
+date:   2021-01-01 00:00:25 +00:00
+image: pubs/2021.Seesaw/seesaw.png
+categories: research
+# author: ""
+authors: "Jiaqi Wang, Wenwei Zhang, Yuhang Zang, Yuhang Cao, <strong>Jiangmiao Pang</strong>, Tao Gong, Kai Chen, Ziwei Liu, Chen Change Loy, Dahua Lin"
+venue: "Computer Vision and Pattern Recognition (CVPR)"
+# page: 
+arxiv: https://arxiv.org/abs/2008.10032
+# paper: 
+code: https://github.com/open-mmlab/mmdetection/tree/master/configs/seesaw_loss
+# poster: 
+# video: 
+# slide: 
+zhihu: https://zhuanlan.zhihu.com/p/339126633
+bibtex: pubs/2021.Seesaw/bibtex.txt
+# highlight: 
+---

@@ -1,0 +1,6 @@
+@article{yang2025gripper,
+  title={Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation},
+  author={Yang, Yuyin and Cai, Zetao and Tian, Yang and Zeng, Jia and Pang, Jiangmiao},
+  journal={arXiv preprint arXiv:2504.17784},
+  year={2025}
+}    

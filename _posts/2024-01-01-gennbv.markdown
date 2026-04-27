@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction"
+date:   2024-01-01 00:07:00 +00:00
+image: pubs/2024.GenNBV/teaser.png
+categories: research
+authors: "<u>Xiao Chen</u>, <u>Quanyi Li</u>, <u>Tai Wang</u>, Tianfan Xue, <strong>Jiangmiao Pang</strong>"
+venue: "Computer Vision and Pattern Recognition (CVPR)"
+page: https://gennbv.tech/
+arxiv: https://arxiv.org/abs/2402.16174v1
+# code: https://github.com/OpenRobotLab/EmbodiedScan
+bibtex: pubs/2024.GenNBV/bibtex.txt
+sub_fields: "3D Vision and Embodied Perception"
+---

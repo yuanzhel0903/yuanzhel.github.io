@@ -1,0 +1,6 @@
+@article{wang2022monocular,
+  title={Monocular 3d object detection with depth from motion},
+  author={Wang, Tai and Pang, Jiangmiao and Lin, Dahua},
+  journal={European Conference on Computer Vision},
+  year={2022}
+}

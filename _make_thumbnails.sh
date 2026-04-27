@@ -1,0 +1,1 @@
+mogrify -path $1 -thumbnail 160x160 $2

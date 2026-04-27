@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "R<sup>2</sup>-CNN: Fast Tiny Object Detection in Large-scale Remote Sensing Images"
+date:   2019-01-01 00:00:12 +00:00
+image: pubs/2019.R2CNN/r2cnn.png
+categories: research
+sub_fields: "Others"
+# author: ""
+authors: "<strong>Jiangmiao Pang</strong>, Cong Li, Jianping Shi, Zhihai Xu, Huajun Feng"
+venue: "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
+# page: http://vis.xyz/pub/qdtrack
+arxiv: https://arxiv.org/abs/1902.06042
+paper: https://ieeexplore.ieee.org/document/8672899
+# code: https://github.com/SysCV/qdtrack
+# poster: pubs/2021.K-Net/poster.jpeg
+# video: https://www.youtube.com/watch?v=BlrHCO9TDvk
+# slide: pubs/2021.FCOS3D/FCOS3D.pdf
+# zhihu: https://zhuanlan.zhihu.com/p/400191167
+bibtex: pubs/2019.R2CNN/bibtex.txt
+highlight: ESI Highly Cited Paper
+---

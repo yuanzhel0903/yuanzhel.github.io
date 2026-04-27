@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Side-aware Boundary Localization for More Precise Object Detection"
+date:   2020-01-01 00:00:50 +00:00
+image: pubs/2020.SABL/sabl.png
+categories: research
+# author: ""
+authors: "Jiaqi Wang, Wenwei Zhang, Yuhang Cao, Kai Chen, <strong>Jiangmiao Pang</strong>, Tao Gong, Jianping Shi, Chen Change Loy, Dahua Lin"
+venue: "European Conference on Computer Vision (ECCV)"
+# page: 
+arxiv: https://arxiv.org/abs/1912.04260
+# paper: 
+code: https://github.com/open-mmlab/mmdetection/tree/master/configs/sabl
+# poster: pubs/2021.K-Net/poster.jpeg
+# video: https://www.youtube.com/watch?v=BlrHCO9TDvk
+# slide: pubs/2021.FCOS3D/FCOS3D.pdf
+# zhihu: https://zhuanlan.zhihu.com/p/400191167
+bibtex: pubs/2020.SABL/bibtex.txt
+highlight: Spotlight Presentation
+---

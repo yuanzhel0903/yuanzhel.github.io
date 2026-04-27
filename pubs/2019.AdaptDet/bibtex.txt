@@ -1,0 +1,6 @@
+@inproceedings{zhu2019adapting,
+  title={Adapting Object Detectors via Selective Cross-Domain Alignment},
+  author={Zhu, Xinge and Pang, Jiangmiao and Yang, Ceyuan and Shi, Jianping and Lin, Dahua},
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2019}
+}

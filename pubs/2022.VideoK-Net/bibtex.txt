@@ -1,0 +1,6 @@
+@inproceedings{li2022video,
+  title={Video k-net: A simple, strong, and unified baseline for video segmentation},
+  author={Li, Xiangtai and Zhang, Wenwei and Pang, Jiangmiao and Chen, Kai and Cheng, Guangliang and Tong, Yunhai and Loy, Chen Change},
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2022}
+}

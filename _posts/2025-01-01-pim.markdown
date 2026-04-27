@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Learning Humanoid Locomotion with Perceptive Internal Model"
+date:   2025-01-01 00:20:00 +00:00
+image: pubs/2025.PIM/teaser.png
+categories: research
+sub_fields: "Humanoids and Motion Intelligence"
+# author: ""
+authors: "Junfeng Long*, Junli Ren*, Moji Shi*, Zirui Wang, Tao Huang, Ping Luo, <strong>Jiangmiao Pang</strong>"
+venue: "International Conference on Robotics and Automation (ICRA)"
+page: https://junfeng-long.github.io/PIM/
+arxiv: https://arxiv.org/abs/2411.14386
+# paper: 
+# code: https://github.com/OpenRobotLab/HIMLoco
+# poster: pubs/2021.K-Net/poster.jpeg
+# video: https://recorder-v3.slideslive.com/#/share?share=51360&s=244d89a2-1418-4fd5-89fe-dc9616fc6efd
+# slide:
+# zhihu: https://zhuanlan.zhihu.com/p/428280551
+bibtex: pubs/2025.PIM/bibtex.txt
+# Highlight: Use 1 hour to train a quadruped robot capable of traversing any terrain under any disturbances in the open world.
+---

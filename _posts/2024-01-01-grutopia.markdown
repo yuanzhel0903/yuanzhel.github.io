@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "GRUtopia: Dream General Robots in a City at Scale"
+date:   2024-01-01 00:21:00 +00:00
+image: pubs/2024.GRUtopia/teaser.png
+categories: research
+sub_fields: "Simulation/Hardware Systems for Embodied AI"
+# author: ""
+authors: "Hanqing Wang*, Jiahe Chen*, Wensi Huang*, Qingwei Ben*, Tai Wang*, Boyu Mi*, Tao Huang, Siheng Zhao, Yilun Chen, Sizhe Yang, Peizhou Cao, Wenye Yu, Zichao Ye, Jialun Li, Junfeng Long, Zirui Wang, Huiling Wang, Ying Zhao, Zhongying Tu, Yu Qiao, Dahua Lin, <strong>Jiangmiao Pang</strong>"
+venue: "In Submission"
+page: https://grutopia.github.io/
+arxiv: https://arxiv.org/abs/2407.10943
+# paper: 
+code: https://github.com/OpenRobotLab/GRUtopia
+# poster: pubs/2021.K-Net/poster.jpeg
+# video: https://recorder-v3.slideslive.com/#/share?share=51360&s=244d89a2-1418-4fd5-89fe-dc9616fc6efd
+# slide:
+# zhihu: https://zhuanlan.zhihu.com/p/428280551
+bibtex: pubs/2024.GRUtopia/bibtex.txt
+# Highlight: Use 1 hour to train a quadruped robot capable of traversing any terrain under any disturbances in the open world.
+---

@@ -1,0 +1,6 @@
+@inproceedings{mmscan,
+    title={MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations},
+    author={Lyu, Ruiyuan and Wang, Tai and Lin, Jingli and Yang, Shuai and Mao, Xiaohan and Chen, Yilun and Xu, Runsen and Huang, Haifeng and Zhu, Chenming and Lin, Dahua and Pang, Jiangmiao},
+    year={2024},
+    booktitle={arXiv},
+}

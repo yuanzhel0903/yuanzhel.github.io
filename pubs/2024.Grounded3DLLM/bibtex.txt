@@ -1,0 +1,6 @@
+@article{chen2024grounded,
+  title={Grounded 3D-LLM with Referent Tokens},
+  author={Chen, Yilun and Yang, Shuai and Huang, Haifeng and Wang, Tai and Lyu, Ruiyuan and Xu, Runsen and Lin, Dahua and Pang, Jiangmiao},
+  journal={arXiv preprint arXiv:2405.10370},
+  year={2024}
+}

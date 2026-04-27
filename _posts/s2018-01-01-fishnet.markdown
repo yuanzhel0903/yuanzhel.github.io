@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction"
+date:   2018-01-01 00:00:02 +00:00
+image: pubs/2018.FishNet/fishnet.png
+categories: research
+# author: ""
+authors: "Shuyang Sun, <strong>Jiangmiao Pang</strong>, Jianping Shi, Shuai Yi, Wanli Ouyang"
+venue: "Neural Information Processing Systems (NeurIPS)"
+# page: http://vis.xyz/pub/qdtrack
+arxiv: https://arxiv.org/abs/1901.03495
+# paper: 
+code: https://github.com/kevin-ssy/FishNet
+# poster: pubs/2021.K-Net/poster.jpeg
+# video: https://www.youtube.com/watch?v=BlrHCO9TDvk
+# slide: pubs/2021.FCOS3D/FCOS3D.pdf
+# zhihu: https://zhuanlan.zhihu.com/p/400191167
+bibtex: pubs/2018.FishNet/bibtex.txt
+# highlight: Oral Presentation
+---

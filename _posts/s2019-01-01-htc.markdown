@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Hybrid Task Cascade for Instance Segmentation"
+date:   2019-01-01 00:00:18 +00:00
+image: pubs/2019.HTC/htc.png
+categories: research
+sub_fields: "Others"
+# author: ""
+authors: "Kai Chen, <strong>Jiangmiao Pang</strong>, Jiaqi Wang, Yu Xiong, Xiaoxiao Li, Shuyang Sun, Wansen Feng, Jianping Shi, Wanli Ouyang, Chen Change Loy, Dahua Lin"
+venue: "Computer Vision and Pattern Recognition (CVPR)"
+# page: http://vis.xyz/pub/qdtrack
+arxiv: https://arxiv.org/abs/1901.07518
+# paper: 
+code: https://github.com/open-mmlab/mmdetection/tree/master/configs/htc
+# poster: pubs/2021.K-Net/poster.jpeg
+# video: https://www.youtube.com/watch?v=BlrHCO9TDvk
+# slide: pubs/2021.FCOS3D/FCOS3D.pdf
+zhihu: https://zhuanlan.zhihu.com/p/57629509
+bibtex: pubs/2019.HTC/bibtex.txt
+highlight: Winning entry at COCO Object Detection Challenge, ECCV 2018
+---

@@ -1,0 +1,6 @@
+@article{wei2023ov,
+  title={OV-PARTS: Towards Open-Vocabulary Part Segmentation},
+  author={Wei, Meng and Yue, Xiaoyu and Zhang, Wenwei and Kong, Shu and Liu, Xihui and Pang, Jiangmiao},
+  journal={Advances in Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2023}
+}

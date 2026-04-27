@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "PointLLM: Empowering Large Language Models to Understand Point Clouds"
+date:   2024-01-01 00:08:00 +00:00
+image: pubs/2024.PointLLM/teaser.png
+categories: research
+sub_fields: "3D Vision and Embodied Perception"
+# author: ""
+authors: "<u>Runsen Xu</u>, Xiaolong Wang, <u>Tai Wang</u>, <u>Yilun Chen</u>, <strong>Jiangmiao Pang</strong><sup>&dagger;</sup>, Dahua Lin"
+venue: "European Conference on Computer Vision (ECCV), 2024"
+page: https://runsenxu.com/projects/PointLLM/
+arxiv: https://arxiv.org/abs/2308.16911
+# paper: 
+code: https://github.com/OpenRobotLab/PointLLM
+# poster: pubs/2021.K-Net/poster.jpeg
+# video: https://recorder-v3.slideslive.com/#/share?share=51360&s=244d89a2-1418-4fd5-89fe-dc9616fc6efd
+# slide:
+# zhihu: https://zhuanlan.zhihu.com/p/428280551
+bibtex: pubs/2024.PointLLM/bibtex.txt
+highlight: Best Paper Candidate
+---

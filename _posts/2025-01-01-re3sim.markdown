@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Re3Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation"
+date:   2025-01-03 00:20:00 +00:00
+image: pubs/2025.Re3Sim/teaser.png
+categories: research
+sub_fields: "Manipulation and Navigation Intelligence"
+# author: ""
+authors: "Xiaoshen Han, Minghuan Liu, Yilun Chen, Junqiu Yu, Xiaoyang Lyu, Yang Tian, Bolun Wang, Weinan Zhang, <strong>Jiangmiao Pang</strong>"
+venue: "In Submission"
+page: https://xshenhan.github.io/Re3Sim/
+arxiv: https://arxiv.org/abs/2502.08645
+# paper: 
+# code: https://github.com/OpenRobotLab/HIMLoco
+# poster: pubs/2021.K-Net/poster.jpeg
+# video: https://recorder-v3.slideslive.com/#/share?share=51360&s=244d89a2-1418-4fd5-89fe-dc9616fc6efd
+# slide:
+# zhihu: https://zhuanlan.zhihu.com/p/428280551
+bibtex: pubs/2025.Re3Sim/bibtex.txt
+# Highlight: Use 1 hour to train a quadruped robot capable of traversing any terrain under any disturbances in the open world.
+---

@@ -1,0 +1,6 @@
+@inproceedings{sun2018fishnet,
+  title={FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction},
+  author={Sun, Shuyang and Pang, Jiangmiao and Shi, Jianping and Yi, Shuai and Ouyang, Wanli},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2018}
+}

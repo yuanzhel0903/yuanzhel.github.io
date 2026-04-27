@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking"
+date:   2023-01-03 00:00:29 +00:00
+image: pubs/2023.DORT/teaser.png
+categories: research
+sub_fields: "3D Vision and Embodied Perception"
+# author: ""
+authors: "<u>Qing Lian</u>, <u>Tai Wang</u>, Dahua Lin, <strong>Jiangmiao Pang</strong>"
+venue: "Conference on Robot Learning (CoRL)"
+# page: https://xizaoqu.github.io/unihsi/
+arxiv: https://arxiv.org/abs/2303.16628
+paper: https://proceedings.mlr.press/v229/lian23a/lian23a.pdf
+code: https://github.com/OpenRobotLab/DORT
+# poster: pubs/2021.K-Net/poster.jpeg
+# video: https://recorder-v3.slideslive.com/#/share?share=51360&s=244d89a2-1418-4fd5-89fe-dc9616fc6efd
+# slide:
+# zhihu: https://zhuanlan.zhihu.com/p/428280551
+bibtex: pubs/2023.DORT/bibtex.txt
+# highlight: Most Influential CVPR Papers
+---

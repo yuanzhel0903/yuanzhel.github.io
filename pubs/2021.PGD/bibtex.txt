@@ -1,0 +1,6 @@
+@InProceedings{wang2021probabilistic,
+  title={Probabilistic and geometric depth: Detecting objects in perspective},
+  author={Wang, Tai and Zhu, Xinge and Pang, Jiangmiao and Lin, Dahua},
+  booktitle={Conference on Robot Learning},
+  year={2021}
+}

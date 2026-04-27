@@ -1,0 +1,6 @@
+@inproceedings{qing2023dort,
+  title={Dort: Modeling dynamic objects in recurrent for multi-camera 3d object detection and tracking},
+  author={Qing, LIAN and Wang, Tai and Lin, Dahua and Pang, Jiangmiao},
+  booktitle={Conferene on Robot Learning},
+  year={2023},
+}

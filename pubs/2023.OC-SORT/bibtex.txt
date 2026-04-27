@@ -1,0 +1,6 @@
+@inproceedings{cao2023observation,
+  title={Observation-centric sort: Rethinking sort for robust multi-object tracking},
+  author={Cao, Jinkun and Pang, Jiangmiao and Weng, Xinshuo and Khirodkar, Rawal and Kitani, Kris},
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2023}
+}

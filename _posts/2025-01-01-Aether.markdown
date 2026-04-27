@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Aether: Geometric-Aware Unified World Modeling"
+date:   2025-01-07 00:27:00 +00:00
+image: pubs/2025.Aether/teaser.png
+categories: research
+# author: ""
+authors: "Aether Team, Haoyi Zhu, Yifan Wang, Jianjun Zhou, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Chunhua Shen, <strong>Jiangmiao Pang</strong>, Tong He"
+venue: "In Submission"
+page: https://aether-world.github.io/
+arxiv: https://arxiv.org/abs/2503.18945
+# paper: 
+# code: https://github.com/OpenRobotLab/HIMLoco
+# poster: pubs/2021.K-Net/poster.jpeg
+# video: https://recorder-v3.slideslive.com/#/share?share=51360&s=244d89a2-1418-4fd5-89fe-dc9616fc6efd
+# slide:
+# zhihu: https://zhuanlan.zhihu.com/p/428280551
+# bibtex: pubs/2025.Homie/bibtex.txt
+# Highlight: Use 1 hour to train a quadruped robot capable of traversing any terrain under any disturbances in the open world.
+sub_fields: "AIGC for Embodied AI"
+# sub_fields2: "Simulation/Hardware Systems for Embodied AI"
+---

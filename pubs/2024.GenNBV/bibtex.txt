@@ -1,0 +1,6 @@
+@inproceedings{chen2024gennbv,
+  author={Chen, Xiao and Li, Quanyi, and Wang, Tai and Xue, Tianfan, and Pang, Jiangmiao},
+  title={GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction},
+  booktitle={Computer Vision and Pattern Recognition (CVPR)},
+  year={2024},
+}

@@ -1,0 +1,6 @@
+@inproceedings{pang2019libra,
+  title={Libra R-CNN: Towards Balanced Learning for Object Detection},
+  author={Pang, Jiangmiao and Chen, Kai and Shi, Jianping and Feng, Huajun and Ouyang, Wanli and Dahua Lin},
+  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2019}
+}

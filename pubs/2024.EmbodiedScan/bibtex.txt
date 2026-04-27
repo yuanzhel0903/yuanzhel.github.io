@@ -1,0 +1,6 @@
+@inproceedings{wang2023embodiedscan,
+  author={Wang, Tai and Mao, Xiaohan and Zhu, Chenming and Xu, Runsen and Lyu, Ruiyuan and Li, Peisen and Chen, Xiao and Zhang, Wenwei and Chen, Kai and Xue, Tianfan and Liu, Xihui and Lu, Cewu and Lin, Dahua and Pang, Jiangmiao},
+  title={EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI},
+  booktitle={Computer Vision and Pattern Recognition (CVPR)},
+  year={2024},
+}

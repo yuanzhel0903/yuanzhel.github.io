@@ -1,0 +1,6 @@
+@inproceedings{Wang_2020_ECCV,
+    title = {Side-Aware Boundary Localization for More Precise Object Detection},
+    author = {Jiaqi Wang and Wenwei Zhang and Yuhang Cao and Kai Chen and Jiangmiao Pang and Tao Gong and Jianping Shi and Chen Change Loy and Dahua Lin},
+    booktitle = {European Conference on Computer Vision},
+    year = {2020}
+}

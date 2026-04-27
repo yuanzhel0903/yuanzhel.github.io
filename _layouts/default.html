@@ -2,27 +2,41 @@
 <html lang="en">
 
 <head>
-  <title>Yuanzhe Liu</title>
+  <title>{{ site.name }}</title>
 
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-  <meta name="author" content="Yuanzhe Liu" />
+
+  <meta name="author" content="{{ site.name }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
-
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
+    type="text/css" />
 </head>
 
 <body>
-  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-    <tr style="padding:0px">
-      <td style="padding:0px">
-
-        <!-- ===== BIO ===== -->
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr style="padding:0px">
-            <td style="padding:2.5%;width:63%;vertical-align:middle">
+  <table style="
+        width: 100%;
+        max-width: 800px;
+        border: 0px;
+        border-spacing: 0px;
+        border-collapse: separate;
+        margin-right: auto;
+        margin-left: auto;
+      ">
+    <tr style="padding: 0px">
+      <td style="padding: 0px">
+        <table style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            ">
+          <tr style="padding: 0px">
+            <td style="padding: 2.5%; width: 60%; vertical-align: middle">
               <h1>Yuanzhe Liu</h1>
               <p>
                 Hi! I am a Master's student in Data Science at the
@@ -47,7 +61,7 @@
                 <strong>Robot Learning</strong> (Robotic Foundation Models, VLA),
                 and <strong>Deep Reinforcement Learning</strong>.
               </p>
-              <p style="text-align:center">
+              <p style="text-align: center">
                 <a href="mailto:yuanzhel@seas.upenn.edu">Email</a>
                 &nbsp;/&nbsp;
                 <a href="https://github.com/yuanzhel0903">GitHub</a>
@@ -59,16 +73,22 @@
                 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
               </p>
             </td>
-            <td style="padding:2.5%;width:37%;max-width:37%">
-              <img style="width:100%;max-width:100%;border-radius:50%;" alt="profile photo" src="{{ site.baseurl }}/images/yuanzheliu_photo.jpg" />
+            <td style="padding: 2.5%; width: 40%; max-width: 40%">
+              <img style="width: 100%; max-width: 100%; border-radius: 50%;" alt="profile photo" src="images/yuanzheliu_photo.jpg" />
             </td>
           </tr>
         </table>
 
-        <!-- ===== NEWS ===== -->
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            ">
           <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
+            <td style="padding: 2.5%; width: 100%; vertical-align: middle">
               <h2>News</h2>
               <ul>
                 <li>
@@ -78,80 +98,138 @@
                 <li>[2026/01] <a href="https://arxiv.org/pdf/2601.07060">PALM</a> is released on arXiv!</li>
                 <li>[2025/07] Started Research Internship at UIUC, Champaign IL.</li>
                 <li>[2025/05] Started LLM Algorithm Internship @ Baidu, Beijing.</li>
+                <li>[2024/08] Started Research Internship at UPenn, Philadelphia PA.</li>
+                <li>[2024/05] Started LLM Algorithm Internship @ Alibaba Cloud, Hangzhou.</li>
               </ul>
             </td>
           </tr>
         </table>
 
-        <!-- ===== SELECTED PUBLICATIONS ===== -->
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            ">
           <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
+            <td style="padding: 2.5%; width: 100%; vertical-align: middle">
               <h2>Selected Publications</h2>
               &rarr; For the full publication list, please refer to my
               <a href="https://scholar.google.com/citations?user=BkjxjvoAAAAJ">Google Scholar</a>.
             </td>
           </tr>
         </table>
-
-        {% for post in site.posts %}
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <br />
+        <table style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            ">
+          {% for post in site.posts %}
           <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px;">
+            <td style="padding: 2.5%; width: 25%; vertical-align: middle; min-width: 120px;">
               {% if post.video %}
-              <video class="pub-video" id="pub-video-{{ forloop.index }}" muted loop preload="metadata">
-                <source src="{{ site.baseurl }}/{{ post.video }}" type="video/mp4">
+              <video style="width:100%;height:auto;display:block;cursor:default;" muted loop preload="metadata"
+                onmouseenter="this.play()" onmouseleave="this.pause();this.currentTime=0;">
+                <source src="/{{ post.video }}" type="video/mp4">
               </video>
               {% else %}
-              <img src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}" style="width:auto;height:auto;max-width:100%;" />
+              <img src="/{{ post.image }}" alt="project image" style="width: auto; height: auto; max-width: 100%" />
               {% endif %}
             </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>
-                {% if post.page %}<a href="{{ post.page }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}
-              </h3>
-              <br/>
+            <td style="padding: 0%; width: 75%; vertical-align: middle">
+              <h3>{% if post.page %}<a href="{{ post.page }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</h3>
+              <br />
               {{ post.authors }}
-              <br/>
+              <br />
               <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}
               {% if post.highlight %}
-              <br/>
-              <font style="color:red">{{ post.highlight }}</font>
+              <br />
+              <font style="color: red">{{ post.highlight }}</font>
               {% endif %}
-              <br/>
-              {% if post.page %}<a href="{{ post.page }}">Webpage</a> /{% endif %}
-              {% if post.arxiv %}<a href="{{ post.arxiv }}">Paper</a>{% endif %}
-              {% if post.code %} / <a href="{{ post.code }}">Code</a>{% endif %}
+              <br />
+              {% if post.page %}<a href="{{ post.page }}">project page</a> / {% endif %}
+              {% if post.arxiv %}<a href="{{ post.arxiv }}">arXiv</a>{% endif %}
+              {% if post.code %} / <a href="{{ post.code }}">code</a>{% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
           </tr>
+          {% endfor %}
         </table>
-        {% endfor %}
 
-        <!-- ===== FOOTER ===== -->
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            ">
           <tr>
-            <td style="padding:0px">
-              <br/>
-              <p style="text-align:center;font-size:small;">
+            <td style="padding: 2.5%; width: 100%; vertical-align: middle">
+              <h2>Services</h2>
+              <ul>
+                <li><strong>Conference Reviewer:</strong> CVPR, AAAI, NeurIPS</li>
+                <li><strong>Workshops Reviewer:</strong> CVPR 2026 Workshop on Computer Vision for Children (CV4CHL)</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+        <!-- 
+        <table style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            ">
+          <tr>
+            <td style="padding: 2.5%; width: 100%; vertical-align: middle">
+              <h2>Services</h2>
+              <ul>
+                <li>
+                  Conference Reviewer: CVPR, ICCV, ECCV, RSS, CoRL, NeurIPS,
+                  ICLR, ICML, AAAI, IROS, ACCV
+                </li>
+                <li> -->
+        <!-- Journal Reviewer: TPAMI, IJCV, TRO, TIP, RA-L, TGRS,
+                  Neurocomputing, Pattern Recognition Letters, Signal
+                  Processing Letters
+                </li>
+              </ul>
+            </td>
+          </tr>
+        </table> -->
+
+        <table style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            ">
+          <tr>
+            <td style="padding: 0px">
+              <br />
+              <p style="text-align: center; font-size: small">
                 Design and source code from
-                <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's website</a>
+                <a style="font-size: small" href="https://jonbarron.info">Jon Barron's website</a>
               </p>
             </td>
           </tr>
         </table>
-
       </td>
     </tr>
   </table>
 
-  <script>
-    document.querySelectorAll('.pub-video').forEach(function(video) {
-      video.addEventListener('mouseenter', function() { video.play(); });
-      video.addEventListener('mouseleave', function() { video.pause(); video.currentTime = 0; });
-    });
-  </script>
-
 </body>
+
 </html>
